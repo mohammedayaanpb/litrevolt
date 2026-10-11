@@ -1,0 +1,17 @@
+packages:
+  - .
+
+# Electron Forge's official @electron/rebuild package resolves @electron/node-gyp from Git.
+blockExoticSubdeps: false
+nodeLinker: hoisted
+overrides:
+  tar: ^7.5.21
+  tmp: ^0.2.4
+
+# Native modules that must compile/download their platform binary during installation.
+allowBuilds:
+  '@google/genai': false
+  better-sqlite3: true
+  electron: true
+  electron-winstaller: true
+  protobufjs: false

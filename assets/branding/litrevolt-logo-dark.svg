@@ -1,0 +1,12 @@
+<svg width="420" height="112" viewBox="0 0 420 112" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LitRevolt logo</title>
+  <desc id="desc">An open paper with three rising page marks beside the LitRevolt wordmark.</desc>
+  <g transform="translate(4 4)">
+    <path d="M48 16C31 8 17 10 8 16V78C19 72 32 72 48 80V16Z" fill="#192725" stroke="#ECF0EB" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M48 16C65 8 79 10 88 16V78C77 72 64 72 48 80V16Z" fill="#223330" stroke="#ECF0EB" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M20 34H38M20 47H38M58 31H77M58 44H74M58 57H68" stroke="#ED7653" stroke-width="5" stroke-linecap="round"/>
+    <path d="M9 88L38 91L48 100L58 91L88 88" stroke="#ED7653" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="112" y="70" fill="#ECF0EB" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700">LitRevolt</text>
+  <text x="115" y="94" fill="#AEBBB8" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">READ DEEPER · THINK CRITICALLY</text>
+</svg>

@@ -1,0 +1,47 @@
+node_modules/
+.pnpm-store/
+.vite/
+out/
+dist/
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+.npmrc
+.pnpmfile.cjs
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+tmp/
+temp/
+data/
+papers/
+backups/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.sqlite3-*
+litrevolt.db
+litrevolt.db-*
+litrevolt-config.enc
+
+# Local development reports can contain account and research diagnostics.
+docs/GEMINI_DEBUG_REPORT.md
+docs/THREE_PASS_REVIEW_BUG_REPORT.md
+docs/running_notes.md
+docs/reference/*.pdf
+
+# pnpm-lock.yaml is the authoritative lockfile.
+package-lock.json
+
+# Active workflow stays local until GitHub workflow publishing is authorized.
+# A public setup template is maintained at docs/github-actions-ci.yml.
+.github/workflows/ci.yml

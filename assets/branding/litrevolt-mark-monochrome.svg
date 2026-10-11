@@ -1,0 +1,5 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">LitRevolt monochrome mark</title>
+  <path d="M62 24C45 15 28 18 18 25V91C31 84 46 86 62 97V24ZM66 24C83 15 100 18 110 25V91C97 84 82 86 66 97V24Z" stroke="currentColor" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M29 42H51M29 56H51M77 39H99M77 53H95M77 67H89M18 105L49 109L64 121L79 109L110 105" stroke="currentColor" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

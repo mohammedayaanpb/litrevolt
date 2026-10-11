@@ -1,0 +1,8 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">LitRevolt application icon</title>
+  <rect width="128" height="128" rx="28" fill="#152C2B"/>
+  <path d="M62 31C46 22 31 25 22 31V91C33 85 46 86 62 96V31Z" fill="#F5EDDC" stroke="#F5EDDC" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M66 31C82 22 97 25 106 31V91C95 85 82 86 66 96V31Z" fill="#FFFDF7" stroke="#FFFDF7" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M34 46H51M34 58H51M77 43H94M77 55H91M77 67H87" stroke="#D65D3B" stroke-width="5" stroke-linecap="round"/>
+  <path d="M22 101L51 104L64 116L77 104L106 101" stroke="#D65D3B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
